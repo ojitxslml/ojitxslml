@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on personal projects and updating my **Portfolio** check it out!
 - 🌱 I’m currently learning **Advanced Architecture in React & .NET**
 - ☁️ Passionate about **Fullstack Development, Azure & Cloud Computing**
-- ⚡ Fun fact: **I love solving complex problems with simple code and listen to music**
+- ⚡ Fun fact: **I love solving complex problems with simple code and listening to music**
 
 ### 📊 GitHub Stats
 <div align="center">
