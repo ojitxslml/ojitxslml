@@ -21,5 +21,5 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://activitycard.fly.dev/api/streak?username=ojitxslml&theme=blueberry&hide_border=true&hide_title=true" alt="Streak" />
+  <img src="https://activitycard.fly.dev/api/streak?username=ojitxslml&theme=nightowl&hide_title=true&width=wide" alt="Streak" />
 </div>
